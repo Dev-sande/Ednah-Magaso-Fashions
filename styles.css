@@ -219,6 +219,7 @@ hr{
 #message-me{
     position: static;
     width: 80%;
+	display: inline-block;
     
 }
 #App-me{
