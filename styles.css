@@ -151,6 +151,27 @@ li{
 	position:relative;
 	top:1px;
 }
+#App-me{
+	background-color:#438a5e;
+	border-radius:9px;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+    font-size:25px;
+	text-decoration:none;
+    text-shadow:0px 0px 0px #66bfbf;
+    height: 40px;
+    width: 25%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 0;
+
+}
+#App-me:hover {
+	background-color: #4f8a8b;
+}
 .bi-envelope{
    width: 35px;
    padding-right: 10px;
