@@ -1,0 +1,238 @@
+body{
+    margin: auto;
+    color: #40514e;
+    background-color:white;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    width: 100%;
+    
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Satisfy', cursive;
+    padding: 30px;
+    font-style: italic;
+}
+h2{
+    color: #66bfbf;
+    padding: 20px;
+}
+h3{
+    color: #66bfbf;
+    padding: 20px;
+}
+hr{
+    border: dotted #e3e3e3 10px;
+    width: 4%;
+    border-bottom: 0;
+}
+p{
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+}
+#col{
+    color: #ffffff;
+    text-decoration: none;
+    padding-left: 5px;
+    font-size: 20px;
+    width: 100%;
+ 
+}
+a{
+    color: #66bfbf;
+    text-decoration: none;
+    padding-left: 5px;
+    font-size: 25px;
+}
+.smart{
+    width: 300px;
+    margin-top: 50px;
+}
+.top-pic{
+    width: 150px;
+    margin-top: auto;
+    float: left;
+    margin-right: 900px;
+    margin-left: 20px;
+}
+.my-pic{
+    width: 150px;
+    margin: auto;
+}
+
+.container-1{
+    padding-top: 20px;
+}
+.ability{
+    width:150px;
+}
+.fav{
+    width: 150px;
+}
+
+.goals{
+    margin-top: 30px;
+    
+}
+.workpic{
+    width: 500px;
+}
+.div1{
+    background-color: white;
+    padding: 20px;
+    
+}
+.div2{
+    background-color: white;
+    padding: 20px;
+}
+.div3{
+    background-color: white;
+    padding: 20px;
+}
+.div4{
+    background-color: white;
+    padding: 20px;
+}
+.div5{
+    background-color: white;
+    padding: 20px;
+}
+.div6{
+    background-color: white;
+    padding: 20px;
+}
+.welcome{
+    background-color: white;
+    padding: 20px;
+}
+.new-div{
+    padding: 20px;
+}
+
+li{
+    margin-top: 25px;
+    background-color: white;
+}
+.visible{
+    visibility: visible;
+}
+#footer{
+    background-color: #66bfbf;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#message-me{
+	background-color:#66bfbf;
+	border-radius:9px;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+    font-size:25px;
+	text-decoration:none;
+    text-shadow:0px 0px 0px #66bfbf;
+    height: 40px;
+    width: 25%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 0;
+
+}
+#message-me:hover {
+	background-color: #4f8a8b;
+}
+#message-me:active {
+	position:relative;
+	top:1px;
+}
+.bi-envelope{
+   width: 35px;
+   padding-right: 10px;
+  
+}
+a:hover{
+    background-color: #4f8a8b;
+}
+.workpic{
+    width: 50%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (max-width: 900px){
+    body{
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    overflow: none;
+    }
+    p{
+        width: 90%;
+    }
+    a{
+        display: inline-block;
+        justify-content: right;
+        font-size: 15px;
+        
+    }
+    .ability{
+       padding: 10px;
+    }
+    #col{
+        font-size: 20px;
+    }
+
+hr{
+    visibility: hidden;
+}
+.smart{
+    width: 150px;
+    
+}    
+#message-me{
+    position: static;
+    width: 80%;
+    
+}
+#footer{
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    
+}
+
+.imgc{
+    text-align: center;
+}
+.dress{
+    text-align: center;
+    width: auto;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+}
+.workpic{
+    width: 80%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.wrap{
+    text-align: center;
+}
+
+}
